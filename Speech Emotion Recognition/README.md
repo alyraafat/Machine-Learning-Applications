@@ -1,6 +1,6 @@
 # Speech Emotion Recognition Project
 
-This project aims to develop a machine learning model capable of recognizing human emotions from audio recordings of speech. We utilize the Speech Emotion dataset from Kaggle, which includes various spoken words/phrases with labeled emotions.
+This project aims to develop a machine learning model capable of recognizing human emotions from audio recordings of speech. We utilize the [Speech Emotion dataset](https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en) from Kaggle, which includes various spoken words/phrases with labeled emotions.
 
 ## Dataset
 
