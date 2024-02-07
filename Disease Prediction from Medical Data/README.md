@@ -4,8 +4,8 @@
 This project aims to predict heart disease using a multimodal approach that combines ECG image data and structured health data. By leveraging the strengths of both image processing and traditional structured data analysis, we aim to create a more accurate and robust model for heart disease prediction. The project utilizes two main datasets: ECG images from a specified Kaggle dataset and structured heart disease data from the UCI Machine Learning Repository.
 
 ## Datasets
-- **ECG Images Dataset**: Sourced from Kaggle, this dataset comprises ECG images used to extract features relevant to heart health.
-- **Heart Disease Dataset**: Obtained from the UCI Machine Learning Repository, including structured data on patient demographics, blood tests, and heart health metrics.
+- [**ECG Images Dataset**](https://www.kaggle.com/datasets/erhmrai/ecg-image-data): Sourced from Kaggle, this dataset comprises ECG images used to extract features relevant to heart health.
+- [**Heart Disease Dataset**](https://archive.ics.uci.edu/dataset/45/heart+disease): Obtained from the UCI Machine Learning Repository, including structured data on patient demographics, blood tests, and heart health metrics.
 
 ## Data Preprocessing Steps
 1. **Image Preprocessing**:
