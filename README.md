@@ -1,5 +1,8 @@
-# Codealpha-ml-tasks
+# Machine-Learning-Applications
+<!--
 This repository contains three machine learning tasks for Codealpha, each designed to challenge and enhance my skills in different areas of machine learning. The projects are varied, covering classification, multimodal learning, and speech processing. Each project is self-contained with its own specific README for detailed instructions, dataset descriptions, and evaluation criteria.
+-->
+This repository contains few machine learning tasks, each designed to challenge and enhance my skills in different areas of machine learning. The projects are varied, covering classification, multimodal learning, and speech processing. Each project is self-contained with its own specific README for detailed instructions, dataset descriptions, and evaluation criteria.
 
 ## Projects Overview
 
